@@ -1,4 +1,5 @@
 # pdfviewer
+Connects to node API hosted on heroku. Open at localhost:8080.
 
 ## Project setup
 ```
