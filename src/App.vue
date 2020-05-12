@@ -5,6 +5,8 @@
     </v-content>
   </v-app>
 </template>
+<script src="/__/firebase/7.14.3/firebase-app.js"></script>
+<script src="/__/firebase/init.js"></script>
 
 <script>
 import PDFViewer from './components/PDFViewer';
