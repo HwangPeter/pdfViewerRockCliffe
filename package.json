@@ -14,7 +14,7 @@
     "pdf.js": "^0.1.0",
     "pdfjs-dist": "^2.3.200",
     "vue": "^2.6.11",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@mdi/font": "^5.1.45",
